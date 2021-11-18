@@ -1,0 +1,18 @@
+table, th, td {
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  background: aqua;
+  opacity: 0.5;
+  color:orangered;
+}
+td{
+  text-align:center;
+
+  .hit{
+    color:green;
+  }
+  .not-hit{
+    color:red;
+  }
+}

@@ -1,0 +1,20 @@
+table, th, td {
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  background: aqua;
+  opacity: 0.5;
+  color: orangered;
+}
+
+td {
+  text-align: center;
+}
+td .hit {
+  color: green;
+}
+td .not-hit {
+  color: red;
+}
+
+/*# sourceMappingURL=table.css.map */
